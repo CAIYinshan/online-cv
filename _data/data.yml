@@ -19,7 +19,7 @@ sidebar:
     github: Cai Yinshan
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -56,31 +56,21 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Master of Engineering, Aeronautical and Astronautical Science and Technology
+      university: School of Aerospace Engineering, Xi'an Jiaotong University
+      time: 201 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+           - GPA: 86.11/100
+           - Thesis: Research on closed spatial active noise control method
 
-          - Bullet point
-          - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree:  Bachelor of Engineering, Flight Vehicle Design and Engineering
+      university: School of Aerospace Engineering, Xi'an Jiaotong University
+      time: 2013 - 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        - GPA: 86.66/100
+        - Thesis: Research on dynamic load identification for rail of rocket sled 
 
-          - Bullet point
-          - Bullet point
 
 experiences:
     - role: Lead Developer
